@@ -5,9 +5,6 @@ In **"lists"** I try to put all lists together someone could ever need. And all 
 
 If you are missing something please create an issue [here](https://github.com/leon-wm/lists/issues/new).
 
-If I havn't created a list myself, you can allways find a link to the original, at the end of this Page[^1]!
+If I havn't created a list myself, you can allways find a link to the original, here in the Repo Wiki.[^1]!
 
 ### **_! I'll try to update this Repo as often as I can !_**
-
-
-[^1]:
