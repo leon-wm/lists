@@ -8,3 +8,5 @@ If you are missing something please create an issue [here](https://github.com/le
 If I havn't created a list myself, you can allways find a link to the original, here in the Repo Wiki.[^1]!
 
 ### **_! I'll try to update this Repo as often as I can !_**
+
+[^1]: Still need to be created
